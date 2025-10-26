@@ -32,7 +32,7 @@ The primary goal was to transform raw sales data into actionable business insigh
 
 Click the link below to view the fully interactive dashboard:
 
-👉 **[View Interactive Dashboard on Tableau Public]([https://public.tableau.com/app/profile/anees.ur.rehman4765/viz/StrategicCarSalesPerformanceDashboard/Dashboard2?publish=yes])** 👈
+👉 **[[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/anees.ur.rehman4765/viz/StrategicCarSalesPerformanceDashboard/Dashboard2?publish=yes)]** 👈
 
 ---
 
